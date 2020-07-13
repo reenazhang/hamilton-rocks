@@ -5,7 +5,7 @@ This repo contains the code for our Hamilton web scraping / data wrangling proje
 Entire project is 6 weeks (July 12th - August 23rd)
 
 ### 1. Webscraping
-Obtain dataset by July 26th (2 weeks). 
+Obtain dataset by July 26th (2 weeks) -- use twitter API.
 We will scrape Twitter users' reactions to Hamilton from its release in 2016 and its re-release in 2020. 
 ### 2. Data Wrangling
 Complete cleaning data / all wrangling by August 9th (2 weeks)
